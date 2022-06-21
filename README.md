@@ -1,9 +1,8 @@
 <name>Name's Delroy</name>
 
-Likes 
+Experience/Likes?
 
 >Python
-
 
 >HTML
 
