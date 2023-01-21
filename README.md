@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name_Delroy_<br><br>Experience/Likes?<br><br>>Python<br><br>>HTML<br><br>>C<br><br>>Kotlin<br>
+Name_Delroy<br><br>Experience/Likes?<br><br>>Python<br><br>>HTML<br><br>>C<br><br>>Kotlin<br>
 
 
 ## 🌐 Socials:
