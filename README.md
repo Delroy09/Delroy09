@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/delroy09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delroy09" height="30" width="40" />
   </a>
-  <a href="https://dribbble.com/del_09" target="blank">
+  <a href="https://dribbble.com/Del_09/shots" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="del_09" height="30" width="40" />
   </a>
 </p>
