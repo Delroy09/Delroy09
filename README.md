@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Delroy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=delroy09&label=Profile%20views&color=eab5a4&style=flat" alt="delroy09" />
 </p> - 🤝 I’m looking for help with <b>Inspiring UI designs</b> - 📫 How to reach me <b>delroypires@gmail.com</b> <h3 align="left">Connect with me:</h3>
