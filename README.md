@@ -29,6 +29,14 @@
 
 ###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/delroy09" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/>
+  </a>
+</div>
+
+###
+
 <p>View Count (Since Jan 2025):</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Delroy09/count.svg?"  />
