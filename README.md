@@ -11,27 +11,24 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo" />
   </a>
   <img width="12" />
+  <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   </a>
   <img width="12" />
+  <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   </a>
   <img width="12" />
+  <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   </a>
   <img width="12" />
+  <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   </a>
-   <img width="12" />
-   <a href="www.linkedin.com/in/delroy09" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
   <a href="https://www.linkedin.com/in/delroy09" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
   </a>
 </div>
 
@@ -39,14 +36,14 @@
 
 <p>View Count (Since Jan 2025):</p>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Delroy09/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Delroy09/count.svg?" />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://imgflip.com/s/meme/Is-This-A-Pigeon.jpg"  />
+<img align="right" height="150" src="https://imgflip.com/s/meme/Is-This-A-Pigeon.jpg" />
 
 ###
 
