@@ -25,7 +25,7 @@
 </div>
 
 ###
-<p>View Count:</p>
+<p>View Count (Since Jan 2025):</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Delroy09/count.svg?"  />
 </div>
