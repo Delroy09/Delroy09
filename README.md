@@ -47,6 +47,6 @@
 
 ###
 
-<p align="left">✨ Minimalist to the Core<br><br>🏃🏼‍➡️ Tend more towards Frontend<br><br>🍕 Back-end on certian occasions<br><br>⏳ Trying to keep it efficient<br><br>🥪 Compact just like my Profile</p>
+<p align="left">✨ Minimalist to the Core<br><br>🏃🏼‍➡️ Tend more towards Frontend<br><br>🍕 Back-end on certain occasions<br><br>⏳ Trying to keep it efficient<br><br>🥪 Compact just like my Profile</p>
 
 ###
