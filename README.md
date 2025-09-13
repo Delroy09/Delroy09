@@ -36,8 +36,8 @@
 
 <p>View Count (Since Jan 2025):</p>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Delroy09/count.svg?" />
-  ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FDelroy09&leftColor=df8b8b&rightColor=ff6188&type=total&label=Viewers&style=none)
+  <img src="https://profile-counter.glitch.me/Delroy09/count.svg?](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FDelroy09&leftColor=df8b8b&rightColor=ff6188&type=total&label=Viewers&style=none" />
+
 </div>
 
 ###
