@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Delroy09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
   ## 💰 Donate:
-  [![BuyMeAChai](https://buymeachai.ezee.li/assets/images/chai.png)](https://buymeachai.ezee.li/Del09)
+  [![BuyMeAChai](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeachai.ezee.li/Del09)
 
 <img align="right" height="150" src="https://imgflip.com/s/meme/Is-This-A-Pigeon.jpg" />
