@@ -1,5 +1,5 @@
 # About Me:
-✨ Minimalist to the Core<br><br>🏃🏼‍➡️ Tend more towards Frontend<br><br>🍕 Back-end on certain occasions<br><br>⏳ Trying to keep it efficient<br><br>🥪 Compact just like my Profile
+✨ Minimalist to the Core<br><br>🏃🏼‍➡️ Tend more towards Frontend<br><br>🍕 Back-end on certain occasions<br><br>⏳ Trying to keep it efficient<br><br>🥪 Compact just like my Profile<br><br>🔍 Feel free to browse some of my public repos!
 
 
 ## Socials:
